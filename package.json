@@ -7,7 +7,7 @@
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js",
-		"author": "Jane Doe"
+		"author": "Shaurya Kohli"
 	},
 	"repository": {
 		"type": "git",
